@@ -1,0 +1,15 @@
+{
+    "name": "vansanblch/pushbullet-for-laravel",
+    "description": "Pushbullet-for-PHP Laravel service provider",
+    "require": {
+        "ivkos/pushbullet": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Nikulin",
+            "email": "vansanblch@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
