@@ -2,7 +2,7 @@
     "name": "vansanblch/pushbullet-for-laravel",
     "description": "Pushbullet-for-PHP Laravel service provider",
     "require": {
-        "ivkos/pushbullet": "dev-master"
+        "ivkos/pushbullet": "~3.1"
     },
     "license": "MIT",
     "authors": [
@@ -11,7 +11,6 @@
             "email": "vansanblch@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"

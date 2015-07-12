@@ -4,11 +4,11 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a9ff2505dfd1a074e41c8e4fea6136b4",
+    "hash": "6c1ba8c87d02ac09c1f95ed9c3ba456b",
     "packages": [
         {
             "name": "ivkos/pushbullet",
-            "version": "dev-master",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ivkos/Pushbullet-for-PHP.git",
@@ -58,10 +58,8 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "dev",
-    "stability-flags": {
-        "ivkos/pushbullet": 20
-    },
+    "minimum-stability": "stable",
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
