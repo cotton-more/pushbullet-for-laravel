@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Vansanblch\\PushbulletLaravel": "src/"
+            "Vansanblch\\PushbulletLaravel\\": "src/"
         }
     }
 }
