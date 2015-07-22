@@ -2,5 +2,5 @@
 
 return [
     // https://www.pushbullet.com/#settings/account
-    'access_token' => 'PUSHBULLET-ACCESS-TOKEN',
+    'access_token' => env('PUSHBULLET_ACCESS_TOKEN'),
 ];
