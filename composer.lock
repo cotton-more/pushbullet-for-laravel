@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a6ef6c54862bd6bcb957e8d8b73e55f3",
+    "hash": "05721696144cd3af528581989e10cb5f",
     "packages": [
         {
             "name": "danielstjules/stringy",
@@ -173,16 +173,16 @@
         },
         {
             "name": "illuminate/support",
-            "version": "5.1.x-dev",
+            "version": "v5.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "2db917fa627b529a5023367cca68731b1ce50f46"
+                "reference": "9c6e35802e6e7c807170a0ee263d1bfcad6cbab5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/2db917fa627b529a5023367cca68731b1ce50f46",
-                "reference": "2db917fa627b529a5023367cca68731b1ce50f46",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/9c6e35802e6e7c807170a0ee263d1bfcad6cbab5",
+                "reference": "9c6e35802e6e7c807170a0ee263d1bfcad6cbab5",
                 "shasum": ""
             },
             "require": {
@@ -222,7 +222,7 @@
             ],
             "description": "The Illuminate Support package.",
             "homepage": "http://laravel.com",
-            "time": "2015-07-11 12:16:43"
+            "time": "2015-07-02 02:30:30"
         },
         {
             "name": "ivkos/pushbullet",
@@ -277,9 +277,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "illuminate/support": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
