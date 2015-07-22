@@ -1,4 +1,4 @@
-<?php namespace Vansanblch\PushbullerLaravel;
+<?php namespace Vansanblch\PushbulletLaravel;
 
 
 use Illuminate\Support\ServiceProvider;
