@@ -23,7 +23,7 @@ class PushbulletServiceProvider extends ServiceProvider
     public function register()
     {
         $this->app->singleton('pushbullet', function () {
-            $apiKey = $this->app->make('config')->get('pushbullet.api_key');
+            $apiKey = $this->app->make('config')->get('pushbullet.access_token');
 
             $pushbullet = new Pushbullet($apiKey);
 
